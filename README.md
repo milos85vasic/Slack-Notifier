@@ -17,3 +17,8 @@ user = "your user"
 ```
 $ python notify.py "This is a sample message."
 ```
+
+- Or with pipeline:
+```
+$ some_command | python notify_pipe.py
+```
