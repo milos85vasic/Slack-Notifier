@@ -22,3 +22,7 @@ $ python notify.py "This is a sample message."
 ```
 $ some_command | python notify_pipe.py
 ```
+
+## Dependencies
+
+To be able to use Slack Notifier [Slack API](https://github.com/slackapi/python-slackclient) must be installed on the system.
